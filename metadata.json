@@ -1,0 +1,7 @@
+{
+  "name": "Audio Echo Chamber",
+  "description": "A web application using the Web Audio API to apply real-time echo and clarity effects to local audio files. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
